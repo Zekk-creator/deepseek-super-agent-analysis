@@ -35,6 +35,10 @@ Super-agent 要解决的瓶颈不在模型够不够聪明，而在人的注意�
 
 ![总架构](images/01-architecture.png)
 
+## 完整框架图
+
+![完整框架](images/11-framework.png)
+
 ## 双层架构：Router 派活，Worker 干活
 
 ![双层架构](images/02-dual-layer.png)
